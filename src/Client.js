@@ -4,7 +4,7 @@ const Profile = require('./Profile');
 const Store = require('./Store');
 const Challenge = require('./Challenge');
 
-const URL = 'https://api.fortnitetracker.com/v1';
+const URL = 'https://api.fortnitetracker.com/v2';
 
 /**
  * The main hub for the client, to be instantiated.
